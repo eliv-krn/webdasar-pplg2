@@ -1,0 +1,10 @@
+Sesi 1 - Literasi
+
+1. atribut action pada formulir
+	-> menentukan url yang akan diproses oleh server
+2. atribut method pada formulir
+	-> menentukan metode http yg akan digunakan kirim data oleh formulir
+3. Method POST pada formulir
+	-> mengirim data sensitif
+4. Fungsi isset() pada PHP
+	-> memeriksa apakah variabel telah didefinisikan
